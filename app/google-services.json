@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74717134065",
+    "project_id": "cryptobank-4657a",
+    "storage_bucket": "cryptobank-4657a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74717134065:android:76779c88b629a7236f3d50",
+        "android_client_info": {
+          "package_name": "com.cbank.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74717134065-3c293rjgmi2d39eoj31r3f2ap100rduf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp0HuXrX4tFVk-1L2QblUzG__g3osUjDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74717134065-3c293rjgmi2d39eoj31r3f2ap100rduf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
